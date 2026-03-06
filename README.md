@@ -1,4 +1,4 @@
-### 🇺🇸 About Me
+### 🇺🇸  About Me
 
 Hi there! I'm Brayan 👋
 
@@ -16,7 +16,7 @@ I enjoy building websites, managing databases, and developing automation systems
   
 ---
 
-### 🇧🇷 Sobre Mim
+### 🇧🇷  Sobre Mim
 
 Olá pessoal, me chamo Brayan 👋
 
@@ -34,7 +34,7 @@ I gosto de criar sites, construir ou fazer consultas em banco de dados, desenvol
 
 ---
 
-### 🇺🇸 : Technologies & Tools | 🇧🇷 : 🛠 Tecnologias e Ferramentas
+### 🇺🇸 : 🛠 Technologies & Tools | 🇧🇷 : 🛠 Tecnologias e Ferramentas
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
