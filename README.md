@@ -1,10 +1,11 @@
-## 🇺🇸 About Me
+### 🇺🇸 About Me
 
-# Hi there! I'm Brayan 👋
+Hi there! I'm Brayan 👋
 
-### Computer Engineering student and software development enthusiast. 
+Computer Engineering student and software development enthusiast. 
 Proficient in **C, C#, Java, SQL, Python, HTML/CSS, and JavaScript**.
 I enjoy building websites, managing databases, and developing automation systems. Also, love designing electronic circuits and develop games.
+
 ---
 
 ### 🛠 Technologies & Tools
@@ -19,11 +20,6 @@ I enjoy building websites, managing databases, and developing automation systems
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanwisller&show_icons=true&theme=radical)
-
----
-
 ### Fun Facts:
 - I like chocolate and cheese bread
 - Vingadores: Ultimato is my favorite movie
@@ -34,13 +30,14 @@ I enjoy building websites, managing databases, and developing automation systems
   
 ---
 
-## 🇧🇷 Sobre Mim
+### 🇧🇷 Sobre Mim
 
-# Olá pessoal, me chamo Brayan 👋
+Olá pessoal, me chamo Brayan 👋
 
-### Sou um estudante de engenharia da computação e um entusiasta em desenvolvimento de software.
+Sou um estudante de engenharia da computação e um entusiasta em desenvolvimento de software.
 Tenho aptidão em programar em **C, C#, Java, SQL, Python, HTML/CSS, JavaScript**.
 I gosto de criar sites, construir ou fazer consultas em banco de dados, desenvolver ou gerenciar sistemas de automação. Também, gosto de desevolver circuitos eletrônicos and criar jogos.
+
 ---
 
 ### 🛠 Tecnologias e Ferramentas
@@ -52,11 +49,6 @@ I gosto de criar sites, construir ou fazer consultas em banco de dados, desenvol
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanwisller&show_icons=true&theme=radical)
 
 ---
 
