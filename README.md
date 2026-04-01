@@ -10,7 +10,6 @@ I enjoy building websites, managing databases, and developing automation systems
 - I like chocolate and cheese bread
 - Vingadores: Ultimato is my favorite movie
 - I'm Flamengo fan and he is my heart team
-- Toyko Ghoul, Vinland Saga and Naruto are my favorite animes
 - I'm a fan of horror, action, suspense and comedy movies
 - I like to play basketball and soccer
   
@@ -28,7 +27,6 @@ I gosto de criar sites, construir ou fazer consultas em banco de dados, desenvol
 - Eu gosto de pão de queijo e chocolate
 - Vingadores: Ultimato é meu filme favorito
 - Sou torcedor do Flamengo e tenho muito amor por ele
-- Tokyo Ghoul, Vinland Saga e Naruto são meus animes favoritos
 - Eu sou fâ de filmes de comédia, suspence, terror e ação
 - Eu gosto de jogar futebol e basquete
 
