@@ -8,7 +8,6 @@ I enjoy building websites, managing databases, and developing automation systems
 
 ### Fun Facts:
 - I like chocolate and cheese bread
-- Vingadores: Ultimato is my favorite movie
 - I'm Flamengo fan and he is my heart team
 - I'm a fan of horror, action, suspense and comedy movies
 - I like to play basketball and soccer
@@ -25,9 +24,8 @@ I gosto de criar sites, construir ou fazer consultas em banco de dados, desenvol
 
 ### Curiosidades sobre mim
 - Eu gosto de pão de queijo e chocolate
-- Vingadores: Ultimato é meu filme favorito
 - Sou torcedor do Flamengo e tenho muito amor por ele
-- Eu sou fâ de filmes de comédia, suspence, terror e ação
+- Eu sou fã de filmes de comédia, suspence, terror e ação
 - Eu gosto de jogar futebol e basquete
 
 ---
