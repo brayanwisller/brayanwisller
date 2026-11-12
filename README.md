@@ -72,7 +72,6 @@ I'm a Computer Engineering student focused on solving real-world problems by con
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brayanwisller&theme=radium" alt="GitHub Stats" width="48%" height="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brayanwisller&theme=radium" alt="Top Languages" width="38%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brayanwisller&theme=radium" alt="GitHub Stats">
 </div>
 
