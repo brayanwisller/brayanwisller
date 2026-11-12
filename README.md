@@ -5,10 +5,10 @@
 
 I'm a Computer Engineering student focused on solving real-world problems by connecting hardware, software, and data. I currently work in industrial automation and telemetry, developing robust data pipelines, analytical dashboards, and embedded electronics prototypes.
 
-### 🇺🇸 About Me
+### 🇺🇸  About Me
 
 - 🔭 Currently working with **industrial telemetry dashboards** (Streamlit, GE Proficy Historian) and critical data automation via APIs.
-- 🌱 Deepening my knowledge in **backend and web architectures** (.NET 9, C#, ASP.NET Core) and DevOps practices (Docker, AWS, GitHub Actions).
+- 🌱 Deepening my knowledge in **backend and web architectures** (FastAPI, .NET 9, C#, ASP.NET Core) and DevOps practices (Docker, AWS, GitHub Actions).
 - ⚙️ Passionate about **IoT & Robotics**: building everything from self-balancing robots using ESP32 to custom access control systems (VoiceLock) and home automation.
 - ⚡ Focus: Modular architectures, clean code, strict version control (Conventional Commits), and pragmatic solutions — from firmware to frontend.
 
@@ -21,10 +21,10 @@ I'm a Computer Engineering student focused on solving real-world problems by con
   
   Sou um estudante de Engenharia da Computação focado em resolver problemas reais conectando hardware, software e dados. Atualmente, atuo na área de automação e telemetria industrial, desenvolvendo pipelines de dados, dashboards analíticos e protótipos de eletrônica embarcada.
   
-  ### 🇧🇷 Sobre mim
+  ### 🇧🇷  Sobre mim
 
 - 🔭 Atualmente trabalhando com **dashboards de telemetria industrial** (Streamlit, GE Proficy Historian) e automação de envio de dados críticos via APIs.
-- 🌱 Aprofundando estudos em **arquiteturas backend e web** (.NET 9, C#, ASP.NET Core) e práticas de DevOps (Docker, AWS, GitHub Actions).
+- 🌱 Aprofundando estudos em **arquiteturas backend e web** (FastAPI, .NET 9, C#, ASP.NET Core) e práticas de DevOps (Docker, AWS, GitHub Actions).
 - ⚙️ Apaixonado por **IoT e Robótica**: criando desde robôs de autoequilíbrio com ESP32 e acelerômetros, até sistemas customizados de controle de acesso (VoiceLock) e automação residencial.
 - ⚡ Foco: Arquiteturas modulares, código limpo, controle de versão rigoroso (Conventional Commits) e soluções pragmáticas — do firmware ao frontend.
 
